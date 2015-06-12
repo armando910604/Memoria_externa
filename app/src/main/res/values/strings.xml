@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Memoria_externa</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="aviso">Escribe algo</string>
+    <string name="guardar">Guardar</string>
+    <string name="abrir">Abrir</string>
+    <string name="guardararchivo">El archivo se ha Guardado</string>
+    <string name="cargararchivo">El archivo se ha Cargado</string>
+    <string name="noguarda">"El almacenamineto externo no se encuentra disponible"</string>
+</resources>
